@@ -1,0 +1,22 @@
+h1{
+    color: #000;
+    font-family: 'segoe UI',tahoma,geneva,verdana,sans-serif;
+    font-weight: bolder;
+    font-size: large;
+}
+
+#xyz{
+    color: aliceblue;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.abc{
+    color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+}
+
+h2{
+    color: azure;
+}
